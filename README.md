@@ -2,5 +2,5 @@
 Windmill project
 ## Descriptions
 - TODO
-  - todo ~~todo~~  
+  - todo
   - todo
